@@ -1,4 +1,4 @@
-#PRIVACY POLICY
+PRIVACY POLICY
 
 Inner Core does not collect and send any personal information and does not require any sort of login to work.
 
