@@ -1,7 +1,7 @@
 # FOR INNER CORE DEVELOPERS
 Inner Core is a new generation of Minecraft PE mod loaders, that allows to create big and complicated mods. Here you can find all required information, that will help you to start development. 
 
-## Learning Inner Core.
+## Learning Inner Core
 
 Inner Core mods are writen in JavaScript and require deep understanding of this launguage and how OOP works. This website might help you https://javascript.info/
 
