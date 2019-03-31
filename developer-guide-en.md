@@ -11,6 +11,8 @@ This project is still very young and have massive API at the same time, so docum
 
 Both of this mods are quite big and well-writen, so you can study without any problems while documentation is not out.
 
+UPD: the documentation is available at https://wiki.mineprogramming.org
+
 #### Debugging mods:
 1. All errors are showed in dialog windows and writen in log (games/com.mojang/innercore/innercore.log)
 2. If startup log contain any errors it will show full log in dialog window. Errors are highlighted with red.
