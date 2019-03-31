@@ -9,6 +9,8 @@ Inner Core - новое поколение загрузчиков для Minecra
 1. Industial Craft PE: https://github.com/MineExplorer/IndustrialCraft_2 
 2. Forestry: https://github.com/DDShadowRU/IC_ForestryPE
 
+UPD: Документация доступна на https://wiki.mineprogramming.org
+
 ##### Отладка модов:
 1. Все ошибки отображаются в диалоговом окне и записываются в файл лога (games/com.mojang/innercore/innercore.log)
 2. Если при запуске возникла какая-либо ошибка, будет показан полный лог запуска в диалоговом окне. Ошибки подсвечиваются красным цветов
